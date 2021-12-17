@@ -1,3 +1,5 @@
+# PROMPTING PEOPLE
+
 print "Give me a number: "
 # converts response to integer with to_i
 number = gets.chomp.to_i

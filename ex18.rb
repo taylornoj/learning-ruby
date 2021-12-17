@@ -1,3 +1,5 @@
+# NAMES, VARIABLES, CODE, FUNCTIONS
+
 # this one is like your scripts with ARGV
 
 def print_two(*args)

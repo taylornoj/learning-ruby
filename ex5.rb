@@ -1,3 +1,5 @@
+# MORE VARIABLES AND PRINTING
+
 name = 'Zed A. Shaw'
 age = 35 
 height = 74 # inches 

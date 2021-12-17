@@ -1,3 +1,5 @@
+# FUNCTIONS AND VARIABLES
+
 # all the different ways we're able to give our function cheese_and_crackers 
 # the values it needs to print them
 

@@ -1,3 +1,5 @@
+# STRINGS AND TEXT
+
 # variable
 types_of_people = 10
 
