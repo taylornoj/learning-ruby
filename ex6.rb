@@ -33,7 +33,7 @@ joke_evaluation = "Isn't that job so funny?! #{hilarious}"
 puts joke_evaluation
 
 # assigning strings to variables
-w = "This is the left side of ..."
+w = 'This is the left side of ...'
 e = "a string with a right side."
 
 # printed side by side
